@@ -1,0 +1,59 @@
+1)ElasticSearch Client-to-ServerCluster
+
+https://javadeveloperzone.com/elastic-search/elastic-search-csv-bulk-import-example/
+https://bytefish.de/blog/elasticsearch_java/
+https://github.com/bytefish/JTinyCsvParser/
+
+1.1) ElasticSearch search
+
+https://www.baeldung.com/elasticsearch-java
+https://www.elastic.co/guide/en/elasticsearch/reference/current/zip-windows.html
+
+2)ElasticSearch CSV bulk
+
+https://github.com/johtani/elasticsearch-ingest-csv/blob/master/src/main/java/info/johtani/elasticsearch/plugin/ingest/csv/CsvProcessor.java
+https://github.com/johtani/elasticsearch-ingest-csv
+
+2.1)ElasticSearch configuration:
+https://www.elastic.co/guide/en/elasticsearch/reference/current/windows.html
+
+3)Solr Client-to-ServerCluster
+
+https://nowontap.wordpress.com/2013/11/26/lws-ingesting-a-csv-file-part-2/
+https://github.com/apache/lucene-solr/blob/master/lucene/analysis/kuromoji/src/java/org/apache/lucene/analysis/ja/util/CSVUtil.java
+
+3.1) Sorl query data
+https://www.baeldung.com/apache-solrj
+http://yonik.com/solr/query-syntax/
+
+3.2) Sorl configuration:
+https://examples.javacodegeeks.com/enterprise-java/apache-solr/solr-query-syntax-examples/
+
+3.3) Sorl Server:
+https://www.valuebound.com/resources/blog/installation-configuration-of-apache-solr-server-4-6-on-windows-machine
+https://wiki.apache.org/solr/Solrj
+
+3.4) Sorl Core:
+https://stackoverflow.com/questions/44614760/how-to-create-a-new-core-in-solr-using-java-code
+http://www.mkyong.com/solr/apache-solr-hello-world-example/
+https://programtalk.com/java-api-usage-examples/org.apache.solr.client.solrj.SolrClient/
+
+
+4.0) Lucene 
+https://github.com/mancmelou/indexer
+http://www.lucenetutorial.com/sample-apps/textfileindexer-java.html
+
+
+https://examples.javacodegeeks.com/core-java/apache/lucene/lucene-indexing-example/
+https://github.com/bgfeldm/Csv2Lucene/blob/master/src/us/brianfeldman/fileformat/csv/JavaCSVReader.java
+
+===== OTHER ============
+https://www.hiberus.com/crecemos-contigo/nosql-y-los-motores-de-busqueda-apache-solr-vs-elasticsearch/
+https://dzone.com/articles/top-15-solr-vs-elasticsearch-differences-1
+
+
+=== EXAMPLE OF APPLICATION =======
+https://dzone.com/articles/basic-api-rate-limiting
+https://www.tutorialspoint.com/spring_boot/spring_boot_interceptor.htm
+https://www.oodlestechnologies.com/blogs/How-To-Configure-The-Interceptor-With-Spring-Boot-Application
+http://www.mkjava.com/tutorial/filter-vs-interceptor/

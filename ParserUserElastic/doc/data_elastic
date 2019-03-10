@@ -1,0 +1,12 @@
+1)http://caraulean.com/2016/install-and-configure-elasticsearch-in-windows/
+2)https://github.com/lmenezes/cerebro
+3)https://javadeveloperzone.com/elastic-search/elastic-search-csv-bulk-import-example/
+4)https://stackoverflow.com/questions/31453270/elasticsearch-java-api-create-amd-reuse-node
+5)https://stackoverflow.com/questions/15114481/return-all-records-in-one-query-in-elasticsearch
+
+
+
+
+0)Seguir los pasos de: 1)http://caraulean.com/2016/install-and-configure-elasticsearch-in-windows/
+a) C:\workspaces\workSorlElastic\servers\elasticsearch-6.6.1\bin\elasticsearch.
+b) localhost:8083.

@@ -1,0 +1,6 @@
+Version solr 7.7.1
+
+1)DEFINE PARAM JAVA_HOME to Java JVM (1.8)
+2)EXECUTE solr start -p 8082 (standalone server)
+3)http://localhost:8082/solr/#/
+4)create new core: solr create -c useragent
