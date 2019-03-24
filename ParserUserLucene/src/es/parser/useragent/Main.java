@@ -113,7 +113,7 @@ public class Main {
 		
 		System.out.println("[MAIN] BEGIN!!");
 		System.out.println("[MAIN] *********************************************************");
-		System.out.println("[MAIN] ELASTIC searching console program");
+		System.out.println("[MAIN] LUCENE searching console program");
 		System.out.println("[MAIN] Commands:");
 		System.out.println("[MAIN] search> (criteria) found data in file processed");
 		System.out.println("[MAIN] search> :quit exit of program");
